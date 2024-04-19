@@ -9,9 +9,6 @@
 <br>
 <br>
 <p>
-YOLOv5 🚀 is a family of object detection architectures and models pretrained on the COCO dataset, and represents <a href="https://ultralytics.com">Ultralytics</a>
- open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development.
-
 This university project uses a adaption of the public project from Ultralytics. Please note that this repo no longer contains the latest version of yolo. For the latest releases go to https://github.com/ultralytics/yolov5.
 In this example we are training *british ambulance* vehicles to detect in videomaterial. You can adapt this project for your own needs. 
 
