@@ -1,0 +1,5 @@
+names:
+- truck
+nc: 1
+train: british_ambulance/train/images
+val: british_ambulance/valid/images
