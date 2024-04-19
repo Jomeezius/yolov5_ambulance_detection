@@ -3,7 +3,7 @@
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
-   <img width="850" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LJ58OJX_LONDON_AMBULANCE_QUEEN_VICTORIA_STREET_CITY_OF_LONDON_%2826124592264%29.jpg/1920px-LJ58OJX_LONDON_AMBULANCE_QUEEN_VICTORIA_STREET_CITY_OF_LONDON_%2826124592264%29.jpg"></a>
+   <img width="550" src="ambulance_detection.jpg"></a>
 </p>
 
 <br>
