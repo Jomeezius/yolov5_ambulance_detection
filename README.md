@@ -3,7 +3,7 @@
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
-   <img width="550" src="ambulance_detection.jpg"></a>
+   <img width="350" src="ambulance_detection.jpg"></a>
 </p>
 
 <br>
